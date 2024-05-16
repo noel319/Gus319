@@ -3,8 +3,8 @@ The segmentation, detection and classification of ophthalmological diseases
 main.py
 
 ### Description
-* main.py will extract text from a given image.
-The text will be saved in the file specified by user
+* main.py will segmentation, detection and classification of ophthalmological diseases from a given image.
+The text will be result.
 
 ### Installation
 * we are going to need several modules to run this example
